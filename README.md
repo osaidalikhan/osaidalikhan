@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osaidalikhan
-- 👀 I’m interested in python,machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Python,Machine Learning,AI
+- 🌱 I’m currently learning Python
 - 📫 How to reach me osaidalikhan.69@gmail.com
 
 <!---
