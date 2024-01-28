@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @osaidalikhan
-- 👀 I’m interested in Python,Machine Learning,AI
-- 🌱 I’m currently learning Python
-- 📫 How to reach me osaidalikhan.69@gmail.com
+                                            [![GitHub Streak](https://streak-stats.demolab.com/?user=AzzamHussain&theme=dark)](https://git.io/streak-stats)         
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=AzzamHussain&theme=dark)](https://git.io/streak-stats)         
 
-<!---
-osaidalikhan/osaidalikhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+@@ -10,7 +10,7 @@
+
+
+
+                                              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzzamHussain&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzzamHussain&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)
+
