@@ -2,6 +2,6 @@
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsaidAliKhan&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)
-
+  ![github stats](https://github-readme-stats.vercel.app/api?username=wardaharshad&hide=contribs,prs)
   
 
